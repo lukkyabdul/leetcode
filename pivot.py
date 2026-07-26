@@ -18,7 +18,7 @@ class Solution:
         return -1
 
 
-# Main Program
+
 nums = [1, 7, 3, 6, 5, 6]
 
 obj = Solution()
