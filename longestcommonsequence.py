@@ -14,7 +14,7 @@ class Solution:
         return prefix
 
 
-# Driver Code
+
 obj = Solution()
 
 n = int(input("Enter number of strings: "))
